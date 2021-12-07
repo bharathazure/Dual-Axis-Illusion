@@ -1,4 +1,4 @@
-# Dual Axis Rotation Illusion
+# My Dual Axis Rotation Illusion
 *Best Illusion of The Year 2019 - First Place Winner*
 
 This spinning shape appears to defy logic by rotating around both the horizontal and vertical axis at the same time!
